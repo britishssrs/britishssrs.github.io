@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg:svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="1000"
+   height="600"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="surrey.svg">
+  <svg:metadata
+     id="metadata30">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </svg:metadata>
+  <svg:defs
+     id="defs28" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1280"
+     inkscape:window-height="996"
+     id="namedview26"
+     showgrid="false"
+     inkscape:zoom="0.43133514"
+     inkscape:cx="726.72646"
+     inkscape:cy="157.50793"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg2" />
+  <svg:rect
+     width="1000"
+     height="600"
+     fill="#0135ad"
+     id="rect4"
+     style="fill:#154cbc;fill-opacity:1" />
+  <svg:g
+     id="row">
+    <svg:rect
+       id="square"
+       width="100"
+       height="100"
+       fill="#ffce00"
+       style="fill:#ffd700;fill-opacity:1" />
+    <svg:use
+       xlink:href="#square"
+       x="200"
+       id="use8" />
+    <svg:use
+       xlink:href="#square"
+       x="400"
+       id="use10" />
+    <svg:use
+       xlink:href="#square"
+       x="600"
+       id="use12" />
+    <svg:use
+       xlink:href="#square"
+       x="800"
+       id="use14" />
+  </svg:g>
+  <svg:use
+     xlink:href="#row"
+     x="100"
+     y="100"
+     id="use16" />
+  <svg:use
+     xlink:href="#row"
+     y="200"
+     id="use18" />
+  <svg:use
+     xlink:href="#row"
+     x="100"
+     y="300"
+     id="use20" />
+  <svg:use
+     xlink:href="#row"
+     y="400"
+     id="use22" />
+  <svg:use
+     xlink:href="#row"
+     x="100"
+     y="500"
+     id="use24" />
+  <head />
+</svg:svg>

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg:svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.0"
+   width="600"
+   height="375"
+   viewBox="0 0 8 5"
+   id="svg2"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="northumberland.svg">
+  <svg:metadata
+     id="metadata14">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </svg:metadata>
+  <svg:defs
+     id="defs12" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1209"
+     inkscape:window-height="873"
+     id="namedview10"
+     showgrid="false"
+     inkscape:zoom="0.45254834"
+     inkscape:cx="231.29553"
+     inkscape:cy="-94.000433"
+     inkscape:window-x="0"
+     inkscape:window-y="31"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg2" />
+  <svg:rect
+     width="8"
+     height="5"
+     id="rect4"
+     x="0"
+     y="0"
+     style="fill:#cc0000;fill-opacity:1" />
+  <svg:path
+     d="M0,0h8v5H0z"
+     fill="#cf142b"
+     id="path6" />
+  <svg:path
+     d="M0,0v2h1V0h1v2h1V0h1v2h1V0h1v2h1V0zM1,5V3h1v2h1V3h1v2h1V3h1v2h1V3h1v2z"
+     fill="#f7e017"
+     id="path8"
+     style="fill:#ffd700;fill-opacity:1" />
+  <head />
+</svg:svg>
